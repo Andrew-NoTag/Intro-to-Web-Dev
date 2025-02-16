@@ -41,3 +41,5 @@ Take a look at this [MarkDown cheat sheet](https://www.markdownguide.org/cheat-s
 Next class we will be going straight to **Routes, Directories, Links, and URLS**. But, before building a site, we need think about our pages. Not just how content is organized on a page, but also how information is organized site wide. 
 
 So please go over the Information Architecture File **and** _or_ watch the [What is Information Architecture? (UX Design Guide)](https://www.youtube.com/watch?v=OJLfjgVlwDo) video before next class. In a .md file write key notes you learned about Information Architecture. 
+
+a
