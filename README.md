@@ -22,7 +22,7 @@ _[Office hours can be viewed and booked here](https://calendar.app.google/7ApgxA
 
 ## Course Pre-requisites
 
-Basic computer knowledge. Basic familiarity with any programming/scripting language is preferred but no required.
+Basic computer knowledge. Basic familiarity with any programming/scripting language is preferred but not required.
 
 ## Course Description
 
@@ -46,10 +46,10 @@ This course will provide a basic understanding of the methods and techniques of 
 
 ### Course Objectives
 
-- User Interface (UI) / User Experience (UX)
 - HTML5 / CSS3
 - The Responsive Web (flexible media & media queries)
 - Javascript/Javascript Libraries
+- User Interface (UI) / User Experience (UX)
 
 ### Course Structure
 
