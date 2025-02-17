@@ -45,7 +45,7 @@
   While signed in to Github. Go to your account page and click the `Repositories` tab.
 
 - Click New
-- Name it something unique but descriptive
+- Name it something unique but descriptive (or you can name it GITHUBUSERNAME.github.io to set up your server)
 - Feel free to edit the READEME.md with a longer description
   - Click the Clone/Download Button in the upper right (just like we did for the class files)
 - In terminal, navigate to the folder we made earlier for you class files. :
