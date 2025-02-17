@@ -36,7 +36,7 @@ Take a look at this [MarkDown cheat sheet](https://www.markdownguide.org/cheat-s
   - List of ingredients
   - List of instructions
 
-- Use `git add` `git commit` and `git push` to upload these folders and files to Github, just like we did in class this week.
+- Use `git add` `git commit` and `git push` to upload these folders and files to Github, just like we did in class this week. 
 
 Next class we will be going straight to **Routes, Directories, Links, and URLS**. But, before building a site, we need think about our pages. Not just how content is organized on a page, but also how information is organized site wide. 
 
