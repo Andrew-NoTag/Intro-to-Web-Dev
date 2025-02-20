@@ -155,7 +155,7 @@ What about images? We add them like this:
 
 Whoa, there’s another one of those attributes! You’ll notice the src attribute tells us the location of the image file. In this case, it just links to a picture of a rubber duck, but as we progress we will creating our own images that live in our site folders.
 
-Every image on the web has its own image URL. Simply right-click on an image and choose “Copy image URL.” Paste that URL in quotes after src= to insert with your < img > tag.
+Every image on the web has its own image URL. Simply right-click on an image and choose “Copy image URL.” Paste that URL in quotes after `src=` to insert with your < img > tag.
 
 But let’s just talk about a little more about the image tag.
 
