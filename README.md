@@ -18,7 +18,7 @@ _370 Jay St Room 309_
 
 _To contact professor: sam.dearmas@nyu.edu_
 
-_[Office hours can be viewed and booked here](https://calendar.app.google/7ApgxAsKuk8wgwnw8)_
+_[Office hours can be viewed and booked here](https://calendar.google.com/calendar/u/0/appointments/AcZssZ29sVYQz2XTCLiN4B9mhdsZtANF2QZ9xq-8hOQ=)_
 
 ## Course Pre-requisites
 

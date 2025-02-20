@@ -22,7 +22,7 @@
   dir
   ```
 
-  **note - all of these commands are executed by the enter key. So if you see a series of commands in a row, assume you hit enter after each individual command**
+  **Note:** all of these commands are executed by the enter key. So if you see a series of commands in a row, assume you hit enter after each individual command
 
   The terminal should list out the file system at the root of your computer. We can move in and out of folders using `cd` which stands for change directory. cd is always followed by the folder or route you wish to move to. For example. When I open terminal, and type `ls` I can see a Desktop and a Documents directory along with many others. If i wish to navigate to my Desktop and type:
 
@@ -45,9 +45,9 @@
   While signed in to Github. Go to your account page and click the `Repositories` tab.
 
 - Click New
-- Name it something unique but descriptive (or you can name it GITHUBUSERNAME.github.io to set up your server)
+- Name it something unique but descriptive
 - Feel free to edit the READEME.md with a longer description
-  - Click the Clone/Download Button in the upper right (just like we did for the class files)
+  - Click the Clone/Download Button in the upper right
 - In terminal, navigate to the folder we made earlier for you class files. :
 
 ```
@@ -69,8 +69,6 @@ git clone [your clone url copy paste here]
 ### Adding and Editing Files, Pushing and Committing Changes.
 
 Every week, you will be committing files and folders to your HW repo, and pushing them to your online GitHub repo for me to review. This is how you will submit your HW code.
-
-
 
 - Lets open your repo in VS Code and create a new subfolder called `Hello World`
 - Next, create a file named README.md in the Hello_World folder
@@ -119,8 +117,8 @@ _Helpful Resources_
 - [Terminal Cheat Sheet Mac](https://github.com/0nn0/terminal-mac-cheatsheet)
 - I will be teaching on a MAC, for the terminal/command line equivaltents see this [handy article](http://skimfeed.com/blog/windows-command-prompt-ls-equivalent-dir/).
 
+### Bonus:
 
-### Bonus: 
 #### What if we want to add an exisiting project from our local computer to a GitHub Repository?
 
 - follow the instructions above to create a new online repository on GitHub.

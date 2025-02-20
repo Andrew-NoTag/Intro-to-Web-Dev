@@ -1,5 +1,7 @@
 #### Class Examples
 - [Intro to Web Dev Examples](https://samdear.github.io/)
+- [Intro to Web Dev Examples Repository](https://github.com/samdear/samdear.github.io)
+
 #### HTML
 - [MDN web docs HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [W3 Schools HTML](https://www.w3schools.com/html/default.asp)
