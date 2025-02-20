@@ -12,4 +12,4 @@
 
     [ ] Margins, padding, and borders
 
-    [ ] Starting a portfolio (le me know if you would like to make a different kind of website / it is okay as long as it utilizes the tools we are learning)
+    [ ] Creating a GitHub page
