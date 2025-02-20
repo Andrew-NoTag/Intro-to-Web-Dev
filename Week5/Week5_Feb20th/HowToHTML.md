@@ -75,7 +75,10 @@ The title tag is always nested inside the <head></head> of our document. The tit
 The majority of the content on webpages are probably paragraphs. In fact this paragraph on this blog post is wrapped in a paragraph tag!
 
 ```html
-<p> The majority of the content on webpages are probably paragraphs. In fact this paragraph on this blog post is wrapped in a paragraph tag!</p>
+<p>
+  The majority of the content on webpages are probably paragraphs. In fact this
+  paragraph on this blog post is wrapped in a paragraph tag!
+</p>
 ```
 
 ##### Bold and Italic text within a paragraph:
@@ -157,7 +160,7 @@ Every image on the web has its own image URL. Simply right-click on an image and
 But let’s just talk about a little more about the image tag.
 
 ```html
-<img src="imagesource.jpg" / >
+<img src="imagesource.jpg" />
 ```
 
 Let’s take another look at this image tag. Remember paragraphs and headings and anchor tags all had opening and closing tags:
@@ -227,11 +230,3 @@ Unordered list:
 ```
 
 You will notice the the `<ol></ol>` and the `<ul></ul>` tags just wrap the `<li></li>`list items within them. They help separate this list item content from surrounding paragraphs and heading tags and will be very useful when we start styling these elements with CSS.
-
-## In Class Exercise
-
-- Make a new folder in _your_ class repo called Week05. This is where you will be adding/submitting this weeks HW assignments.
-
-- Create a `recipe.md` file and format a recipe with different text sizes and styles as well as bulleted and numbered lists.
-
-- Use `git add` `git commit` and `git push` to upload these folders and files to Github, just like we did in class.

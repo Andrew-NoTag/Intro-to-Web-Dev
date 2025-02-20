@@ -26,9 +26,13 @@ Add your github repo link to the [class roster google sheet](https://docs.google
 
 > All assignments must be pushed to your repository by **7:59 AM** the date it is due unless otherwise stated.
 
+---
+
 Take a look at this [MarkDown cheat sheet](https://www.markdownguide.org/cheat-sheet/). You will be using markdown files to document your work in this class.
 
 > **Note:** You will have a folder for every week you submit your assignments.
+
+---
 
 In your repository folder in VS Code create a "Week05" folder and add a `README.md` file and `index.html` file. You will write a recipe page in both Markdown and HTML.
 
@@ -41,6 +45,8 @@ The recipe card should contain:
 - List of instructions
 
 - Use `git add` `git commit` and `git push` to upload these folders and files to Github, just like we did in class this week.
+
+---
 
 Next class we will be going straight to **Routes, Directories, Links, and URLS**. But, before building a site, we need think about our pages. Not just how content is organized on a page, but also how information is organized site wide.
 
