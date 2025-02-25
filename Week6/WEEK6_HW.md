@@ -22,8 +22,8 @@
 
 - Use the [GitHub Pages](https://pages.github.com/) tutorial create a GitHub Hosted Page.
 - Add your page (USERNAME.github.io) to the [class roster google sheet](https://docs.google.com/spreadsheets/d/1mypPKpLeb8K2L3tSgLmB0cUEQaopdfFvYwfKA70r1gQ/edit?usp=sharing).
-- Create a site that has at least three pages that link to one another.
-- Use CSS to style your page
+- Create a site, using your _USERNAME.github.io repository_, that link to at least three different files.
+- Use CSS to style your files.
 
 > Example
 >
