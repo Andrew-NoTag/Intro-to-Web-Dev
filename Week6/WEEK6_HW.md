@@ -10,7 +10,9 @@
 
 2. **Exploring Websites as Art**
 
-   [ ] Watch [Introduction to net.art](https://www.youtube.com/watch?v=PrizvWbA30I)
+   [ ] Read the article [Agents Of Change: The Internet.](https://magazine.artland.com/agents-of-change-internet-net-art-how-the-world-wide-web-has-affected-the-way-we-make-art/)
+
+   [ ] Browse [Rhizome's Net Art Anthology](https://anthology.rhizome.org/)
 
    [ ] .md file about which artworks resonated with you
 
