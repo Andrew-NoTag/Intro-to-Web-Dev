@@ -1,6 +1,6 @@
 # Routes, Directories, Links and URLS
 
-Before move on let’s take a moment to look at linking between files and folders within our site.
+Before we move on let’s take a moment to look at linking between files and folders within our site.
 
 We will use a relatively simple site, with a home, about and contact page. We can set up our site 2 different ways:
 
@@ -31,7 +31,7 @@ Notice we need to specify contact.html file within our folder
 
 ---
 
-![Method 2 - Each Page as Own Directory Folder with Index.html within](img/directories.001.png 'Each Page as Own Directory Folder')
+![Method 2 - Each Page as Own Directory Folder with Index.html within](img/directories.001.png "Each Page as Own Directory Folder")
 Method 2 – Each Page as Own Directory Folder with Index.html within
 
 If we want to link to the homepage of this example site on a server:
@@ -76,7 +76,7 @@ In the first example, we have:
 - contact.html
   all within the same folder. Let’s take a look at how we would write our anchor tags to link within our navigation.
 
-![Linking Web Pages within Same Parent Directory](img/directories.003.png 'Linking Web Pages within Same Parent Directory')
+![Linking Web Pages within Same Parent Directory](img/directories.003.png "Linking Web Pages within Same Parent Directory")
 Linking Web Pages within Same Parent Directory
 Because all of our html files are within the same parent directory we can link to them using the file name only:
 
@@ -96,7 +96,7 @@ In the second example, we have:
 
 We now need to jump in and out of child directories from the parent directory. Let’s take a look at how we would write our anchor tags to link within our navigation.
 
-![Linking web pages that are in both parent and child directories](img/directories.004.png 'Linking web pages that are in both parent and child directories')
+![Linking web pages that are in both parent and child directories](img/directories.004.png "Linking web pages that are in both parent and child directories")
 Linking web pages that are in both parent and child directories
 
 We now have to write our links on our homepage differently than the subpages since the homepage lives in the parent directory, and the contact and about pages live in child or subdirectories. Luckily, we are linking to the index files within our subdirectories, so specifying the file name is optional.
@@ -135,7 +135,7 @@ When linking to a file within the same or current directory we specify the filen
 
 From homepage to about page:
 
-```
+```html
 <a href="about.html">ABOUT</a>
 ```
 
@@ -170,7 +170,9 @@ From about page to contact:
 ```
 
 ---
+
 ### Resources
+
 - [W3 Schools HTML Links reference page](https://www.w3schools.com/html/html_links.asp)
 
 - [MDN Web Docs Creating HTML Links](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Creating_links)

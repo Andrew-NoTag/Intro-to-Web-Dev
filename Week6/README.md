@@ -8,7 +8,9 @@
 
 2. **Your first hosted site**
 
-   [ ] Create a GitHub pages repository
+   [ ] Create a GitHub Page Repository
+
+   [ ] Your first hosted site!
 
 3. **Optional**
 
@@ -18,19 +20,33 @@
 
 ### Details
 
+#### Challenge
+
 - Complete the [MDN Web Docs Box Model Challenge](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Box_Model_Tasks)
 - Upload the `.html` (and `.css` if external) to this weeks HW folder in your repository.
 
 ---
 
+#### Your first hosted site
+
 - Use the [GitHub Pages](https://pages.github.com/) tutorial to create your first site.
-- Add something to your index.html page so you can see that the page is up and running.
 - Add your page (USERNAME.github.io) to the [class roster google sheet](https://docs.google.com/spreadsheets/d/1mypPKpLeb8K2L3tSgLmB0cUEQaopdfFvYwfKA70r1gQ/edit?usp=sharing).
+- Create a **simple** site that has three pages that link to one another.
+
+> Example
+>
+> - Home
+> - About
+> - Contact
+
+_As long as you use what we've learned in class, feel free to take creative liberty with these assignments._
 
 ---
+
+#### Optional
 
 Due to time constraints I have decided to skip the in class session for HTML Forms. If you are interested in forms for your website please go through the [MDN Forms and buttons in HTML Tutorial](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/HTML_forms).
 
 ## Homework Due March 3rd
 
-TBD
+### TBA

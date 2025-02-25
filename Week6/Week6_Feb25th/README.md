@@ -2,14 +2,17 @@
 
 ### In class
 
-    [ ] Links, Directories, & Servers
+- How to Debug
 
-    [ ] Intro to CSS
+- Links, Directories, & Servers
 
-    [ ] Box Model and Layout 101
+- Intro to CSS
+
+- How to GitHub pages
+
+- Box Model and Layout 101
 
 ### Homework
 
-    [ ] Margins, padding, and borders
-
-    [ ] Creating a GitHub page
+- Margins, padding, and borders
+- Creating a GitHub page
