@@ -17,9 +17,9 @@
 > - How to debug
 > - Routes, Directories, Linking
 > - Intro to CSS
-> - Box Model and Layout 101
-
 > - GitHub Pages
+
+> - Box Model and Layout 101
 > - Navigation bars, Positioning, Galleries
 > - Midterm ideation
 
