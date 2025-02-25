@@ -39,9 +39,9 @@ _As long as you use what we've learned in class, feel free to take creative libe
 
 Websites are not just functional tools; they can also be a form of artistic expression. In this assignment, you will explore the concept of net.art and reflect on how the internet can be a medium for creative expression.
 
-Watch the [Introduction to net.art](https://www.youtube.com/watch?v=PrizvWbA30I) video.
+Read the article [Agents Of Change: The Internet.](https://magazine.artland.com/agents-of-change-internet-net-art-how-the-world-wide-web-has-affected-the-way-we-make-art/) and look through [Rhizome's Net Art Anthology](https://anthology.rhizome.org/).
 
-In a .md file share which sites resonated with you and why.
+In a .md file share which works resonated with you and why.
 
 ## Homework Due March 3rd
 
