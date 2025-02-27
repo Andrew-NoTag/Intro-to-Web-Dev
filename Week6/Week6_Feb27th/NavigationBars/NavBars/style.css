@@ -67,9 +67,12 @@ Note: overflow:hidden is added to the ul element to prevent li elements from goi
 
 /* With borders */
 /* ul {
+  position: fixed;
+  top: 0;
+  width: 100%;
   list-style-type: none;
-  margin: 0;
-  padding: 0;
+  margin: 100px;
+  padding: 100px;
   overflow: hidden;
   background-color: navy;
 }
