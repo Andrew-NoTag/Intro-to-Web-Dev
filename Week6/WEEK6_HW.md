@@ -1,44 +1,6 @@
-## Homework Due March 3rd
+## Homework Due March 4th
 
-### Checklist
-
-1. **Challenge**
-
-   [ ] Complete the [MDN Web Docs Box Model Challenge](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Box_Model_Tasks)
-
-2. **Gallery Site**
-
-   [ ] Style the Gallery Starter file
-
-### Details
-
-#### Challenge
-
-- Complete the [MDN Web Docs Box Model Challenge](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Box_Model_Tasks)
-- Upload the `.html` (and `.css` if external) to this weeks HW folder in your repository.
-
----
-
-#### Gallery Site
-
-Review the NYC Gallery folder and see how the style.css page is setup.
-
-Download the Gallery Starter File and add it to your GitHub page (username.github.io repository).
-
-Style the gallery in your own way.
-
-> Examples:
->
-> - Add your own images
-> - Different font
-> - Change the colors and background images
-> - Add a navigation bar
-
-Anything you want to change, as long it utilizes what we learned in class.
-
-Be creative and have fun!
-
-![NYC Gallery Screen Shot](./Week6_Feb27th/Gallery/NYCGallery/img/GalleryScreenShot.png)
+TBA
 
 ## Homework Due February 27th
 
