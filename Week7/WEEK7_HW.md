@@ -4,7 +4,7 @@
 
     [ ] Midterm Proposal .md
 
-    [ ] Pending - Gallery Site if not finished in class
+    [ ] Gallery Site if not finished during class
 
 Time to start thinking about your midterm project! You will be sharing your proposal and design in class Thursday, March 6th.
 
