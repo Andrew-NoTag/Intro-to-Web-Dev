@@ -1,3 +1,30 @@
+<!-- ## Homework Due March 11th
+
+### Checklist
+
+1. Challenge
+
+   [ ] MDN Web Docs Challenge: [Fundamental CSS comprehension](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Fundamental_CSS_comprehension)
+
+2. Extra Credit
+
+   [ ] Refine your page of chaos
+
+### Details
+
+#### Challenge
+
+- Complete the mdn web docs [Fundamental CSS comprehension challenge](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Fundamental_CSS_comprehension).
+- Upload the challenge folder to your class repository
+
+> There are a few things that we did not cover directly in class on the challenge so use mdn web documentation and w3 schools to guide you through the proccess.
+
+#### Extra credit: Refined Chaos
+
+- Continue working on your chaotic gallery at home.
+- Keep it experimental, but try adding some intentionality—maybe introduce a surprise interaction, a hidden pattern, or maybe even an animation.
+- Add a link to your chaotic gallery on your .io site to receive extra credit! -->
+
 ## Homework Due March 6th
 
 ### Checklist
