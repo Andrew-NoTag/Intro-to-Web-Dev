@@ -20,15 +20,18 @@
 > - GitHub Pages
 
 > - Box Model and Layout 101
-> - Navigation bars, Positioning, Galleries
-> - Midterm ideation
+> - Navigation bars and Positioning
 
 ### Week 7 (Mar 04 / 06)
 
-> - CSS transformations & transitions
-> - Midterm proposals
+> - Classes and Divs
+> - Galleries
+> - Sitemaps / Wireframing
+> - Midterm ideation
 
-> - Media Queries
+> - Image styling
+> - CSS Transforms & Transitions
+> - Midterm proposals
 
 ### Week 8 (Mar 11 / 13)
 
