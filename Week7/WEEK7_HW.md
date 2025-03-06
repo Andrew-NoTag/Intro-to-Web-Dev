@@ -9,6 +9,7 @@
 2. **Midterms**
 
    [ ] Look through the [MIDTERM.md](MIDTERM.md)
+
    [ ] Work on your midterm project!
 
 ### Details
