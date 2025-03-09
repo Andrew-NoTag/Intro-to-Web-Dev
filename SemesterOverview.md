@@ -36,16 +36,14 @@
 ### Week 8 (Mar 11 / 13)
 
 > - Flexbox & responsive layouts
+> - Media Queries
 
-> - No JavaScript hover & pop up effects
+> - HTML & CSS Overview
+> - Intro to JavaScript
 
 ### Week 9 (Mar 18 / 20)
 
 > - ### Midterm presentations
-
-> - Intro to JavaScript
-> - Media editing (Photoshop)
-> - Doc object model
 
 ### March 25 / 26
 
@@ -53,9 +51,7 @@
 
 ### Week 10 (Apr 01 / 03)
 
-> - Math and Arrays in JavaScript
-
-> - JavaScript Objects and JSON
+> - JavaScript 101
 
 ### Week 11 (Mar 04 / 06)
 
