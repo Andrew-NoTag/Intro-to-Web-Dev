@@ -45,6 +45,18 @@
 
 > - ### Midterm presentations
 
+| Group 1 | Group 2  |
+| ------- | -------- |
+| Derek   | Andrew   |
+| Eddy    | Gemma    |
+| Momcilo | Jay      |
+| Olesia  | Matt     |
+| Sanjana | Nefeli   |
+| Yang    | Santiago |
+| Yi      | Sasha    |
+| Yutong  | Yu       |
+| Ariel   |          |
+
 ### March 25 / 26
 
 > ### Spring Break
