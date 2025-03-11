@@ -31,3 +31,25 @@ Since we cannot cover every possible example needed before your midterm is due h
 - [Fullscreen video BG](https://www.w3schools.com/howto/howto_css_fullscreen_video.asp)
 - [CSS Flip Card Animation](https://www.w3schools.com/howto/howto_css_flip_card.asp)
 - [Scroll to Content](https://www.w3schools.com/howto/howto_js_scroll_into_view.asp)
+
+---
+
+### Midterm Grade Breakdown (100 points total)
+
+#### Presentation & Documentation _(30 points)_
+
+- Project demo, code snippet explanation, & GitHub repo organization
+
+#### Functionality & Interactivity _(30 points)_
+
+- Site functionality, links, interactions, & responsive behavior
+
+#### Code Quality & Understanding _(25 points)_
+
+- Code clarity, structure, & understanding of own code
+
+#### Creativity & Effort _(15 points)_
+
+- Originality, design, effort & progress
+
+_Reminder that the midterm is worth 15% of your overall grade._
