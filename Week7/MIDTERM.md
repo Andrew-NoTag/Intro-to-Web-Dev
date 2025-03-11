@@ -53,3 +53,17 @@ Since we cannot cover every possible example needed before your midterm is due h
 - Originality, design, effort & progress
 
 _Reminder that the midterm is worth 15% of your overall grade._
+
+---
+
+| Group 1 | Group 2  |
+| ------- | -------- |
+| Derek   | Andrew   |
+| Eddy    | Gemma    |
+| Momcilo | Jay      |
+| Olesia  | Matt     |
+| Sanjana | Nefeli   |
+| Yang    | Santiago |
+| Yi      | Sasha    |
+| Yutong  | Yu       |
+| Ariel   |          |
