@@ -38,7 +38,6 @@
 > - Flexbox & responsive layouts
 > - Media Queries
 
-> - HTML & CSS Overview
 > - Intro to JavaScript
 
 ### Week 9 (Mar 18 / 20)
