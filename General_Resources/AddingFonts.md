@@ -8,10 +8,12 @@
       /* Method 1: Using @font-face for fonts you've downloaded */
       @font-face {
         font-family: "MyCustomFont";
-        src: url("path/to/font/file.woff2") format("woff2"), url("path/to/font/file.woff")
-            format("woff"), url("path/to/font/file.ttf") format("truetype");
+        /* Path to font is the actual path to the directory! */
+        src: url("PATH TO FONT/file.woff2") format("woff2"), url("PATH TO FONT FOLDER/file.woff")
+            format("woff"), url("PATH TO FONT/file.ttf") format("truetype");
         font-weight: normal;
         font-style: normal;
+        src: url(/);
       }
 
       /* Using the custom font */
