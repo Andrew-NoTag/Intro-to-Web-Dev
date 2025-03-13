@@ -1,0 +1,23 @@
+body {
+  background-color: aquamarine;
+}
+
+button {
+  font-family: Roboto Mono, monospace;
+  font-size: x-large;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  border: 2px solid limegreen;
+  background-color: pink;
+  color: maroon;
+  box-shadow: 5px 5px 2px darkgreen;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+}
