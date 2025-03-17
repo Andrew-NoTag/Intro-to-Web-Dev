@@ -1,22 +1,27 @@
-Example on how to make an image transition on click!
-
-```html
 <!DOCTYPE html>
 <html>
   <head>
+    <title>Rotating Plate</title>
     <style>
+      body {
+        background-color: #332c0f;
+      }
       .image-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
         cursor: pointer;
-        width: 300px;
-        height: 300px;
+        width: 100%;
+        height: 800px;
         position: relative;
+        background-color: #332c0f;
       }
 
-      img {
-        width: 100%;
-        height: 100%;
+      .image-container img {
+        width: 300px;
+        height: 300px;
         position: absolute;
-        transition: transform 0.8s ease, opacity 0.4s ease;
+        transition: transform 2s ease, opacity 2s ease;
       }
 
       .hidden {
@@ -28,14 +33,11 @@ Example on how to make an image transition on click!
       }
     </style>
   </head>
+
   <body>
     <div class="image-container" onclick="toggleImages()">
-      <img src="./JavaScript_Intro/img/pizza.jpg" id="image1" />
-      <img
-        src="./JavaScript_Intro/img/skating.jpg"
-        id="image2"
-        class="hidden"
-      />
+      <img src="./19317.png" id="image1" />
+      <img src="./29705.png" id="image2" class="hidden" />
     </div>
 
     <script>
@@ -58,4 +60,3 @@ Example on how to make an image transition on click!
     </script>
   </body>
 </html>
-```
