@@ -8,7 +8,6 @@ _Class will be held in **Room 413** for Midterm presentations!_
 - Momcilo
 - Olesia
 - Sanjana
-- Yang
 - Yi
 - Yutong
 
@@ -21,4 +20,5 @@ _Class will be held in **Room 413** for Midterm presentations!_
 - Nefeli
 - Santiago
 - Sasha
+- Yang
 - Yu
