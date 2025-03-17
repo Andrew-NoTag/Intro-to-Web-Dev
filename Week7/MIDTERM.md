@@ -63,7 +63,7 @@ _Reminder that the midterm is worth 15% of your overall grade._
 | Momcilo | Jay      |
 | Olesia  | Matt     |
 | Sanjana | Nefeli   |
-| Yang    | Santiago |
-| Yi      | Sasha    |
-| Yutong  | Yu       |
-| Ariel   |          |
+| Yi      | Santiago |
+| Yutong  | Sasha    |
+| Ariel   | Yu       |
+|         | Yang     |
