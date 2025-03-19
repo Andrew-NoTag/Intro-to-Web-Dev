@@ -38,6 +38,7 @@
 > - Flexbox & responsive layouts
 > - Media Queries
 
+> - HTML & CSS Overview
 > - Intro to JavaScript
 
 ### Week 9 (Mar 18 / 20)
@@ -64,24 +65,30 @@
 
 > - JavaScript 101
 
-### Week 11 (Mar 04 / 06)
+### Week 11 (Apr 08 / 10)
 
 > - _pending_
 
 > - _pending_
 
-### Week 12 (Mar 04 / 06)
+### Week 12 (Apr 15 / 17)
 
 > - _pending_
 
 > - _pending_
 
-### Week 13 (Mar 04 / 06)
+### Week 13 (Apr 22 / 24)
 
 > - _pending_
 
 > - _pending_
 
-### Week 14 (Mar 04 / 06)
+### Week 14 (Apr 29 / May 01)
 
-> - ### Final Presentations
+> - _pending_
+
+> - _pending_
+
+### Final Week (May 06)
+
+> - _pending_
