@@ -1,4 +1,4 @@
-# Web Development Practice (Due 03/25)
+# Web Development Practice (Due 04/01)
 
 As discussed in class, during Spring Break you will create a **_simple_** webpage using HTML, CSS, and JavaScript. The JavaScript portion only needs to change an element of your HTML or CSS dynamically. For a refresher, check out this [JavaScript Intro](https://www.w3schools.com/js/js_intro.asp).
 
