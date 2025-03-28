@@ -65,30 +65,42 @@
 
 > - JavaScript 101
 
+    - Syntax
+    - Variables
+    - Expressions
+    - Data Types
+    - Strings
+    - Functions
+    - Bools
+    - Loops
+    - Document Object Model
+    - Contact Form
+
 ### Week 11 (Apr 08 / 10)
 
-> - _pending_
+> - Arrays and Math
 
-> - _pending_
+> - JSON
+> - User Input
 
 ### Week 12 (Apr 15 / 17)
 
-> - _pending_
+> - Async Data
 
-> - _pending_
+> - JavaScript Objects
 
 ### Week 13 (Apr 22 / 24)
 
-> - _pending_
+> - Local Storage
 
-> - _pending_
+> - BootStrap
 
 ### Week 14 (Apr 29 / May 01)
 
-> - _pending_
+> - In class work session
 
-> - _pending_
+> - Final Presentations
 
 ### Final Week (May 06)
 
-> - _pending_
+> - Final Presentations
