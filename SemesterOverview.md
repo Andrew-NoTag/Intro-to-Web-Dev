@@ -65,17 +65,6 @@
 
 > - JavaScript 101
 
-    - Syntax
-    - Variables
-    - Expressions
-    - Data Types
-    - Strings
-    - Functions
-    - Bools
-    - Loops
-    - Document Object Model
-    - Contact Form
-
 ### Week 11 (Apr 08 / 10)
 
 > - Arrays and Math
