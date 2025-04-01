@@ -1,0 +1,111 @@
+<!-- <!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      button {
+        background-color: #04aa6d;
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+      }
+
+      button:hover {
+        background-color: #45a049;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>JavaScript 101</h1>
+
+    <p id="demo"></p>
+
+    <script>
+      document.getElementById("demo").innerHTML = "Hello Howdy!";
+    </script>
+
+    <h2 id="alert" Alert Alert Alert></h2>
+    <button id="alertButton">Click me for alert</button>
+
+    <script>
+      // Add event listener to the button
+      document.getElementById("alertButton").onclick = function () {
+        window.alert(5 + 6);
+        //window.alert(This could be a string too)
+        // window.alert("woohoo");
+      };
+    </script>
+
+    <h2 id="console" Console Log></h2>
+    <button id="consoleButton">Click me for console log</button>
+
+    <script>
+      // Add event listener to the button
+      document.getElementById("consoleButton").onclick = function () {
+        console.log("woohoo");
+      };
+    </script>
+
+    <h2 id="statement" Statement></h2>
+    <button id="statementButton">
+      Click me for math (initiate a statement)
+    </button>
+
+    <script>
+      let x, y, z;
+      x = 5;
+      y = 6;
+      z = x + y;
+
+      document.getElementById("statementButton").onclick = function () {
+        document.getElementById("statement").innerHTML =
+          "The value of z is " + z + ".";
+      };
+    </script>
+  </body>
+</html> -->
+
+<!-- No Buttons! -->
+
+<!DOCTYPE html>
+<html>
+  <body>
+    <h1>JavaScript 101</h1>
+
+    <p id="demo"></p>
+
+    <script>
+      document.getElementById("demo").innerHTML = "Hello Howdy!";
+    </script>
+
+    <h2 id="alert" Alert Alert Alert></h2>
+    <button id="alertButton">Click me for alert</button>
+
+    <script>
+      document.getElementById("alertButton").onclick = function () {
+        window.alert(5 + 6);
+      };
+    </script>
+
+    <script>
+      console.log("woohoo");
+    </script>
+
+    <p id="statement"></p>
+
+    <script>
+      let a, b, c;
+      a = 5;
+      b = 6;
+      c = a + b;
+
+      document.getElementById("statement").innerHTML =
+        "The value of z is " + c + ".";
+    </script>
+  </body>
+</html>

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <h1>JavaScript Functions</h1>
+
+    <p>Call a function which performs a calculation and returns the result:</p>
+
+    <p id="demo"></p>
+
+    <script>
+      function myFunction(p1, p2) {
+        return p1 * p2;
+      }
+
+      let result = myFunction(4, 3);
+      document.getElementById("demo").innerHTML = result;
+    </script>
+    <button onclick="sumValues(7,23.6);">View Total</button>
+    <script type="text/javascript">
+      function sumValues(a, b) {
+        var sum = a + b;
+        console.log("Your total charges are: " + sum + ".");
+      }
+    </script>
+
+    <p>Switch</p>
+
+    <button onclick="switchOnOff()">
+      Click me Switch the Boolean Variable back and Forth
+    </button>
+
+    <script type="text/javascript">
+      //This global variable is a boolean. it can only be null, true, or false
+      var isOn = true;
+
+      function switchOnOff() {
+        if (isOn == true) {
+          alert("isOn is set to true. Switching to false now.");
+          isOn = false;
+        } else {
+          alert("isOn is set to false. Switching to true now.");
+          isOn = true;
+        }
+      }
+    </script>
+    <p>Loop</p>
+    <button onclick="countToN(25);">Click Me to Start the Loop</button>
+    <script type="text/javascript">
+      function countToN(n) {
+        for (var i = 0; i < n; i++) {
+          console.log(i);
+        }
+      }
+    </script>
+  </body>
+</html>
