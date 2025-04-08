@@ -20,6 +20,8 @@
 
 - Print your grocery list this week onto an html page using an array.
 
+- Using HTML/CSS style your list, add images, and buttons.
+
 - Push to your class repository.
 
 #### Math
