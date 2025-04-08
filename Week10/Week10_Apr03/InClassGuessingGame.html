@@ -1,0 +1,21 @@
+<!-- input form -->
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple Input Form</title>
+  </head>
+  <body>
+    <input type="text" id="userInput" placeholder="Type something here" />
+    <button onclick="displayInput()">Submit</button>
+
+    <p><span id="output"></span></p>
+
+    <script>
+      function displayInput() {
+        var input = document.getElementById("userInput").value;
+        document.getElementById("output").innerHTML = input;
+      }
+    </script>
+  </body>
+</html>
