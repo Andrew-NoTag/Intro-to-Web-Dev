@@ -28,4 +28,4 @@
 
 #### Objects
 
-- Review the [mdn webdocs documentation for objects](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Object_basics) (do not worry about the challenge)
+- Review the [mdn webdocs documentation for objects](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Object_basics) (_do not worry about the challenge!_)
