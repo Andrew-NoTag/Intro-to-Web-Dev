@@ -1,5 +1,7 @@
 ## Homework Due April 15th
 
+### Checklist
+
 - [ ] [mdn web docs loop review](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Loops)
 
 - [ ] Active note taking
