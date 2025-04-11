@@ -125,6 +125,22 @@ Performance and attendance of the student has been less than adequate. Work is l
 
 Performance and attendance of the student has been such that course requirements have not been met. Work shows no overall understanding of the course material on many levels or either a severe lack of interest.
 
+### Letter grade to percentage breakdown
+
+| Grade | Percentage Range |
+| ----- | ---------------- |
+| A     | 93–100%          |
+| A-    | 90–92%           |
+| B+    | 87–89%           |
+| B     | 83–86%           |
+| B-    | 80–82%           |
+| C+    | 77–79%           |
+| C     | 73–76%           |
+| C-    | 70–72%           |
+| D+    | 67–69%           |
+| D     | 65–66%           |
+| F     | 0–64%            |
+
 ## Accommodations
 
 If you are student with a disability who is requesting accommodations, please contact New York University’s Moses Center for Students with Disabilities at 212-998-980 or mosescsd@nyu.edu. You must be registered with CSD to receive accommodations. Information about the Moses Center can be found atwww.nyu.edu/csd. The Moses Center is located at 726 Broadway on the 2nd floor.
