@@ -2,9 +2,11 @@
 
 - [ ] [mdn web docs loop review](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Loops)
 
-[] Active note taking
-[] Active Learning prompts
-[] Test You Skills: Loop
+- [ ] Active note taking
+
+- [ ] Active Learning prompts
+
+- [ ] Test You Skills: Loop
 
 ### Details
 
@@ -19,11 +21,11 @@
 
 ### Checklist
 
-[] [mdn web docs Array Challenge](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Test_your_skills:_Arrays#arrays_1)
+- [ ] [mdn web docs Array Challenge](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Test_your_skills:_Arrays#arrays_1)
 
-[] Your grocery list
+- [ ] Your grocery list
 
-[] [Review JS Objects documentation](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Object_basics)
+- [ ] [Review JS Objects documentation](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Object_basics)
 
 ### Details
 
