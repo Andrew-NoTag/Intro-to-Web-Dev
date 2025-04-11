@@ -1,6 +1,6 @@
 ## Homework Due April 15th
 
-[] [mdn web docs loop review](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Loops)
+- [ ] [mdn web docs loop review](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Loops)
 
 [] Active note taking
 [] Active Learning prompts
