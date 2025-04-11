@@ -1,0 +1,32 @@
+## Add html element from user input
+
+The code below allows the user to input a new item and on click the item is added to the list.
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Nefeli / Adding item from user input</title>
+  </head>
+  <body>
+    <h1 id="groceries"></h1>
+    <input type="text" id="myInput" name="myInput" />
+    <button onclick="getInput()">Add Item</button>
+
+    <script>
+      var grocery = ["milk", "eggs", "bread", "butter"];
+      document.getElementById("groceries").innerHTML = grocery.join(", ");
+
+      function getInput() {
+        let inputElement = document.getElementById("myInput");
+        let inputValue = inputElement.value;
+
+        grocery.push(inputValue);
+        document.getElementById("groceries").innerHTML = grocery.join(", ");
+      }
+    </script>
+  </body>
+</html>
+```
