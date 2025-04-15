@@ -90,6 +90,25 @@
 
 > - Final Presentations
 
+    - Eddy
+    - Gemma
+    - Jay
+    - Matt
+    - Olesia
+    - Sanjana
+    - Sasha
+    - Yi
+    - Yutong
+
 ### Final Week (May 06)
 
 > - Final Presentations
+
+    - Andrew
+    - Ariel Pinghan
+    - Derek
+    - Momcilo
+    - Nefeli
+    - Santiago
+    - Yang
+    - Yu
