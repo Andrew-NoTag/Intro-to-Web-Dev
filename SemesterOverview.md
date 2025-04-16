@@ -84,31 +84,28 @@
 
 > - BootStrap
 
-### Week 14 (Apr 29 / May 01)
+### April 29
 
 > - In class work session
 
-> - Final Presentations (May 01)
+### Finals Presentations:
 
-    - Eddy
-    - Gemma
-    - Jay
-    - Matt
-    - Olesia
-    - Sanjana
-    - Sasha
-    - Yi
-    - Yutong
-
-### Final Week (May 06)
-
-> - Final Presentations (May 06)
-
-    - Andrew
-    - Ariel Pinghan
-    - Derek
-    - Momcilo
-    - Nefeli
-    - Santiago
-    - Yang
-    - Yu
+<table border="1" cellspacing="0" cellpadding="6">
+  <thead>
+    <tr>
+      <th>May 01</th>
+      <th>May 06</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>Eddy</td><td>Andrew</td></tr>
+    <tr><td>Gemma</td><td>Ariel</td></tr>
+    <tr><td>Jay</td><td>Derek</td></tr>
+    <tr><td>Matt</td><td>Momcilo</td></tr>
+    <tr><td>Olesia</td><td>Nefeli</td></tr>
+    <tr><td>Sanjana</td><td>Santiago</td></tr>
+    <tr><td>Sasha</td><td>Yang</td></tr>
+    <tr><td>Yi</td><td>Yu</td></tr>
+    <tr><td>Yutong</td><td>-</td></tr>
+  </tbody>
+</table>
