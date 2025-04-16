@@ -39,7 +39,7 @@ Or explore:
 
 #### Submit
 
-- A link to your HTML file (or upload it to GitHub and submit the repo)
+- Push the file to your class repository
 
 ---
 
