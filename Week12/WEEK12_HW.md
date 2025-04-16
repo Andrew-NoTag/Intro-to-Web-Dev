@@ -2,11 +2,11 @@
 
 ### Checklist
 
-[ ] Finish the in class exploring API exercise
+- [ ] Finish the in class exploring API exercise
 
-[ ] Submit your [JavaScript lesson preferences](https://forms.gle/zakLZxirnq2Xos5RA)
+- [ ] Submit your [JavaScript lesson preferences](https://forms.gle/zakLZxirnq2Xos5RA)
 
-[ ] Start thinking about your final!
+- [ ] Start thinking about your final!
 
 ### Details
 
