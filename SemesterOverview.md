@@ -88,7 +88,7 @@
 
 > - In class work session
 
-> - Final Presentations
+> - Final Presentations (May 01)
 
     - Eddy
     - Gemma
@@ -102,7 +102,7 @@
 
 ### Final Week (May 06)
 
-> - Final Presentations
+> - Final Presentations (May 06)
 
     - Andrew
     - Ariel Pinghan
