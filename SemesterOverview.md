@@ -74,15 +74,15 @@
 
 ### Week 12 (Apr 15 / 17)
 
-> - Async Data
+> - Async Data, Fetch, APIs
 
-> - JavaScript Objects
+> - Design for developers (UX), Deeper into JavaScript Events
 
 ### Week 13 (Apr 22 / 24)
 
-> - Local Storage
+> - Advanced JavaScript objects (Object Prototypes and JS Classes)
 
-> - BootStrap
+> - JavaScript Animations, JavaScript frameworks and libraries
 
 ### April 29
 
