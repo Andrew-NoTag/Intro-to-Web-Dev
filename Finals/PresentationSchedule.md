@@ -1,5 +1,7 @@
 # Finals Presentation Schedule:
 
+### Class will be held in room <ins>**413**</ins> May 1st & 6th
+
 <table border="1" cellspacing="0" cellpadding="6">
   <thead>
     <tr>
