@@ -1,3 +1,47 @@
+## Finals Project Proposal, Due April 20th (5PM)
+
+[Finals Breakdown](/Finals/README.md)
+
+Before you begin building your final project, you’ll need to submit a written proposal. This is your chance to be intentional about your direction and get early feedback.
+
+### Concept / Theme
+
+What is the purpose of your website? What is it _about_ and who is it for? Describe the theme clearly — this should be more than a random assortment of buttons or experiments.
+
+> Example: “An interactive poetry site that lets users shuffle through poems and toggle background music.”  
+> Example: “A digital gallery for my sculpture work, using scroll-triggered animations to highlight each piece.”
+
+### Visual & UX Inspiration
+
+Link to at least **one existing site** that inspired you.
+
+Optional (but encouraged):
+
+- A mood board
+- Notes on colors, fonts, and layout ideas
+- Screenshots of interfaces you admire
+
+### HTML/CSS/JS Skills You Plan to Use
+
+List concepts we learned in class that you might be implementing in your final projects. Choose concepts that add interactivity or dynamic content.
+
+### Wireframe or Sitemap
+
+Include a **visual plan** for your site structure.
+
+Options:
+
+- A wireframe (hand-drawn or digital)
+- A page map showing how your content is organized
+- A flow of how users will interact with your site
+
+### Final Proposal Markdown Checklist:
+
+- [ ] Write up of your concept/theme
+- [ ] Inspiration references
+- [ ] List of HTML/CSS/JS Concepts you will be using
+- [ ] Wireframe or Sitemap
+
 ## Homework Due April 17th
 
 ### Checklist
