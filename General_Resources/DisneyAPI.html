@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Random Disney Character</title>
+    <style>
+      body {
+        font-family: sans-serif;
+        background: skyblue;
+        text-align: center;
+        padding: 2rem;
+      }
+      #card {
+        background: white;
+        border-radius: 1rem;
+        padding: 2rem;
+        max-width: 600px;
+        margin: auto;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      }
+      img {
+        max-width: 100%;
+        border-radius: 1rem;
+        margin-bottom: 1rem;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="card">
+      <h1 id="name">Loading...</h1>
+      <img id="image" src="" alt="Character image" style="display: none" />
+      <p id="source"></p>
+    </div>
+
+    <script>
+      async function loadRandomCharacter() {
+        try {
+          const res = await fetch("https://api.disneyapi.dev/character");
+          const data = await res.json();
+          const characters = data.data;
+
+          const randomCharacter =
+            characters[Math.floor(Math.random() * characters.length)];
+
+          document.getElementById("name").textContent = randomCharacter.name;
+
+          if (randomCharacter.imageUrl) {
+            const img = document.getElementById("image");
+            img.src = randomCharacter.imageUrl;
+            img.style.display = "block";
+          } else {
+            document.getElementById("image").style.display = "none";
+          }
+
+          const sourceText =
+            randomCharacter.films && randomCharacter.films.length > 0
+              ? `From: ${randomCharacter.films.join(", ")}`
+              : "Source unknown";
+          document.getElementById("source").textContent = sourceText;
+        } catch (error) {
+          document.getElementById("name").textContent =
+            "Failed to load character.";
+          console.error("Error fetching character:", error);
+        }
+      }
+
+      loadRandomCharacter();
+    </script>
+  </body>
+</html>
