@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>JavaScript Events</title>
+    <style>
+      body {
+        font-family: sans-serif;
+        padding: 20px;
+        line-height: 1.6;
+      }
+      button {
+        margin: 10px 0;
+      }
+      section {
+        margin-top: 40px;
+        border-top: 1px solid #ccc;
+        padding-top: 20px;
+      }
+      form {
+        margin-top: 10px;
+      }
+      input[type="text"] {
+        margin-bottom: 10px;
+      }
+      pre {
+        background: #f4f4f4;
+        padding: 10px;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>JavaScript Events</h1>
+
+    <section>
+      <h2>Click Event Example</h2>
+      <button id="colorBtn1">Change color (anonymous function)</button>
+      <button id="colorBtn2">Change color (named function)</button>
+    </section>
+
+    <section>
+      <h2>Other Events</h2>
+      <button id="eventBtn">Try other events</button>
+    </section>
+
+    <section>
+      <h2>Remove Listener with AbortController</h2>
+      <button id="abortBtn">Change color (AbortSignal)</button>
+      <button id="removeAbort">Remove listener</button>
+    </section>
+
+    <section>
+      <h2>Multiple Listeners</h2>
+      <button id="multiBtn">Click me (multiple listeners)</button>
+    </section>
+
+    <section>
+      <h2>Event Handler Properties</h2>
+      <button id="propertyBtn">Click me (onclick)</button>
+    </section>
+
+    <section>
+      <h2>Event Object</h2>
+      <button id="eventObjBtn">Click me (event.target)</button>
+    </section>
+
+    <section>
+      <h2>Keyboard Event</h2>
+      <input id="textBox" type="text" placeholder="Type something..." />
+      <div id="keyOutput"></div>
+    </section>
+
+    <section>
+      <h2>Prevent Default Form</h2>
+      <form id="nameForm">
+        <div>
+          <label for="fname">First name: </label>
+          <input id="fname" type="text" />
+        </div>
+        <div>
+          <label for="lname">Last name: </label>
+          <input id="lname" type="text" />
+        </div>
+        <div>
+          <input id="submit" type="submit" />
+        </div>
+      </form>
+      <p id="formOutput"></p>
+    </section>
+
+    <section>
+      <h2>Event Bubbling</h2>
+      <div id="container" style="border: 1px solid #333; padding: 10px">
+        <button id="bubbleBtn">Click me!</button>
+      </div>
+      <pre id="bubbleOutput"></pre>
+    </section>
+
+    <script>
+      function random(number) {
+        return Math.floor(Math.random() * (number + 1));
+      }
+
+      // Click event - anonymous function
+      document.getElementById("colorBtn1").addEventListener("click", () => {
+        const rndCol = `rgb(${random(255)}, ${random(255)}, ${random(255)})`;
+        document.body.style.backgroundColor = rndCol;
+      });
+
+      // Click event - named function
+      function changeBackground() {
+        const rndCol = `rgb(${random(255)}, ${random(255)}, ${random(255)})`;
+        document.body.style.backgroundColor = rndCol;
+      }
+
+      document
+        .getElementById("colorBtn2")
+        .addEventListener("click", changeBackground);
+
+      // Other events
+      const eventBtn = document.getElementById("eventBtn");
+      eventBtn.addEventListener("dblclick", () => alert("Double clicked!"));
+      eventBtn.addEventListener(
+        "mouseover",
+        () => (eventBtn.textContent = "Mouse over!")
+      );
+      eventBtn.addEventListener(
+        "mouseout",
+        () => (eventBtn.textContent = "Try other events")
+      );
+      eventBtn.addEventListener(
+        "focus",
+        () => (eventBtn.textContent = "Focused!")
+      );
+      eventBtn.addEventListener(
+        "blur",
+        () => (eventBtn.textContent = "Blurred!")
+      );
+      eventBtn.setAttribute("tabindex", "0"); // allow keyboard focus
+
+      // AbortController example
+      const abortBtn = document.getElementById("abortBtn");
+      const controller = new AbortController();
+      abortBtn.addEventListener(
+        "click",
+        () => {
+          const rndCol = `rgb(${random(255)}, ${random(255)}, ${random(255)})`;
+          document.body.style.backgroundColor = rndCol;
+        },
+        { signal: controller.signal }
+      );
+
+      document.getElementById("removeAbort").addEventListener("click", () => {
+        controller.abort();
+        alert("Event listener removed!");
+      });
+
+      // Multiple listeners
+      const multiBtn = document.getElementById("multiBtn");
+      multiBtn.addEventListener("click", () => console.log("Function A"));
+      multiBtn.addEventListener("click", () => console.log("Function B"));
+
+      // Event handler property
+      const propertyBtn = document.getElementById("propertyBtn");
+      function bgChange() {
+        const rndCol = `rgb(${random(255)}, ${random(255)}, ${random(255)})`;
+        document.body.style.backgroundColor = rndCol;
+      }
+      propertyBtn.onclick = bgChange;
+
+      // Event object example
+      const eventObjBtn = document.getElementById("eventObjBtn");
+      eventObjBtn.addEventListener("click", (e) => {
+        const rndCol = `rgb(${random(255)}, ${random(255)}, ${random(255)})`;
+        e.target.style.backgroundColor = rndCol;
+        console.log(e);
+      });
+
+      // Keyboard event
+      const textBox = document.querySelector("#textBox");
+      const keyOutput = document.querySelector("#keyOutput");
+      textBox.addEventListener("keydown", (event) => {
+        keyOutput.textContent = `You pressed "${event.key}".`;
+      });
+
+      // Prevent default
+      const form = document.getElementById("nameForm");
+      const fname = document.getElementById("fname");
+      const lname = document.getElementById("lname");
+      const formOutput = document.getElementById("formOutput");
+
+      form.addEventListener("submit", (e) => {
+        if (fname.value === "" || lname.value === "") {
+          e.preventDefault();
+          formOutput.textContent = "You need to fill in both names!";
+        }
+      });
+
+      // Event bubbling
+      const bubbleOutput = document.getElementById("bubbleOutput");
+      function handleClick(e) {
+        bubbleOutput.textContent += `You clicked on a ${e.currentTarget.tagName} element\n`;
+      }
+
+      const container = document.getElementById("container");
+      const bubbleBtn = document.getElementById("bubbleBtn");
+
+      container.addEventListener("click", handleClick);
+      bubbleBtn.addEventListener("click", (e) => {
+        bubbleOutput.textContent += `You clicked the BUTTON itself\n`;
+      });
+    </script>
+  </body>
+</html>
